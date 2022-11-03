@@ -1,6 +1,9 @@
 body{
     font-family: 'Segoe UI', Tahoma, sans-serif;
 }
-p{
+.color{
     color:red;
+}
+p{
+    color:navy;
 }
