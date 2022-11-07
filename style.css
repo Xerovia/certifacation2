@@ -1,9 +1,15 @@
+/* font throughout most of the website as well as body color */
 body{
     font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #e8e8e8;
 }
-.color{
-    color:red;
+/* header */
+.header{
+        padding: 0;
+        font-size: 25px;
+        text-align: left;
+        background-color: #353535;
 }
-p{
-    color:navy;
+.ul > ul li{
+    list-style-type: none;
 }
